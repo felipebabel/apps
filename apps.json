@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Play",
+    "description": "Jogos que estou jogando",
+    "url": "https://play.felipebabel.com",
+    "icon": "https://play.felipebabel.com/logo512.png"
+  },
+  {
+    "name": "WatchTime",
+    "description": "Séries e filmes assistidos",
+    "url": "https://watchtime.felipebabel.com",
+    "icon": "https://watchtime.felipebabel.com/logo512.png"
+  }
+]
